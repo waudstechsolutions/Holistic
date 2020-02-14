@@ -1,1 +1,3 @@
 Created Feature Branch
+It's a new branch under master branch
+It has been created in GitHub
